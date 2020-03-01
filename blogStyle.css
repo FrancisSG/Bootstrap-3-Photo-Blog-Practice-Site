@@ -1,0 +1,31 @@
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+h1 {
+	font-family: raleway;
+	margin-left: 1.66%;
+	font-size: 22px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+}
+
+.IndieFlower{
+	font-family: Indie Flower;
+	text-align: center;
+	font-size: .9em;
+	color: rgba(0, 0, 0, 0.65);
+}
+
+.icon {
+	float: left;
+	margin-top:   0%;
+	margin-left: 48%;
+	width: 3%;
+}
