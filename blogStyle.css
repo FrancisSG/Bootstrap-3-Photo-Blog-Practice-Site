@@ -29,3 +29,13 @@ h1 {
 	margin-left: 48%;
 	width: 3%;
 }
+
+.back {
+	font-family: raleway;
+	font-weight: 400;
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+	margin-left: 1.66%;
+	
+}
