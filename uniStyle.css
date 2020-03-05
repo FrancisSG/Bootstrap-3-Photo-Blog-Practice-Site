@@ -1,0 +1,23 @@
+h1, p {
+	font-family: raleway;
+	text-align: center;
+}
+
+.brand {
+	font-family: poppins;
+	color: black;
+	font-weight: 700;
+}
+
+
+
+body ul li{
+	font-family: poppins;
+	font-weight: 300;
+}
+
+.icon {
+	display: block;
+	margin: 5px auto;
+	width: 50px;
+}
